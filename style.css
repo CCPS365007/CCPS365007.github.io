@@ -1,1 +1,15 @@
+p{
+  color: light pink;
+  font-family: Century;
+}
+
+header{
+text-align: center;
+
+h1{
+  border: 2px light pink;
+color: light yellow;
+}
+
+
 
